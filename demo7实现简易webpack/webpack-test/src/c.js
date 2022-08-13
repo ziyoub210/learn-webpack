@@ -1,1 +1,1 @@
-console.log('我是b.js')
+console.log("我是b.js");
